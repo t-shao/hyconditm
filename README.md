@@ -5,7 +5,7 @@ Code for paper *[Hybrid Conditional Deep Inverse Tone Mapping](https://dl.acm.or
 
 ## Introduction
 
-This project is developed based on BasicSR \[[GitHub](https://github.com/xinntao/BasicSR)\].
+This project is developed based on [BasicSR](https://github.com/xinntao/BasicSR).
 
 For matters not covered in this document, please refer to the detailed documentation of the original project.
 
@@ -50,7 +50,7 @@ Download link:
 - [OneDrive](https://uofmacau-my.sharepoint.com/:f:/g/personal/yc17494_umac_mo/Ep6XPVP9XX9HrZDUR9SmjdkB-t1NSAddMIoX3iJmGwqW-Q?e=dNODeW) （access code: HDRTVNet）
 
 
-### How To Run
+## How To Run
 
 Train
 
